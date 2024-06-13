@@ -7,7 +7,7 @@ function Home() {
                 The best pizza.
                 <br />
                 <span className="text-yellow-500">
-                    Right out of my fat arse, straight to your gaff.
+                    Right out of the oven, straight to your gaff.
                 </span>
             </h1>
             <CreateUser />
