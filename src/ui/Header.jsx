@@ -9,7 +9,8 @@ function Header() {
                 to="/"
                 className="flex items-center gap-3 text-xl tracking-widest"
             >
-                <div className="rounded-full bg-purple-200 p-1">🍕</div>
+                {/* <div className="rounded-full bg-purple-200 p-1">🍕</div> */}
+                <img src="/logo.png" alt="pizza logo" height={75} width={75} />
                 Fatboy&apos;s Pizza Co.
             </Link>
             <SearchOrder />
